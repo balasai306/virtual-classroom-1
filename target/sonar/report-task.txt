@@ -1,0 +1,6 @@
+projectKey=VirtualClassroom:VirtualClassroom
+serverUrl=http://localhost:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:9000/dashboard/index/VirtualClassroom:VirtualClassroom
+ceTaskId=AXjMBILx6rKISFMkDnYM
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXjMBILx6rKISFMkDnYM
