@@ -1,0 +1,50 @@
+
+Basecamp
+
+KO observation 1
+Ability to write basic select queries and retrieve data
+
+
+KO observation 2
+Ability to use Join (inner and outer joins) and 
+Having clause in select queries, group by, order by and limit)
+
+
+
+EnineeringCamp
+
+KO observation 1
+Ability to write DDL statement for a given problem case study
+
+KO 1 status
+No
+
+KO observation 2
+Ability to write DML statement for simple CRUD operations
+
+KO 2 Status
+No
+
+KO observation 3
+Ability to write group by, joins - inner and outer joins
+
+KO 3 Status
+No
+
+
+KO observation 1
+All necessary steps are followed to connect JDBC and database?
+
+KO 1 status
+No
+
+KO observation 2
+The right JDBC statements are used to interact with database?
+
+KO 2 Status
+No
+
+
+
+
+
